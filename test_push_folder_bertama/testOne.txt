@@ -3,3 +3,5 @@ haloo gez, ini push pertama saya menggunakan gitflow, saya mencoba membuat branc
 dari branch develop tersebut, saya membuat branch feature/op0001 untuk latian bertama kali push
 
 sekarang file .txt ini saya edit melalui command line, dari gitbash dengan nano
+
+mencoba commit dan push kedua dengan branch op0002
