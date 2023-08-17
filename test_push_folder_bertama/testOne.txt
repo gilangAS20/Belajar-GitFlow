@@ -5,3 +5,5 @@ dari branch develop tersebut, saya membuat branch feature/op0001 untuk latian be
 sekarang file .txt ini saya edit melalui command line, dari gitbash dengan nano
 
 mencoba commit dan push kedua dengan branch op0002
+
+saya melakukan perubahan ini lagi untuk mencoba membuat list apa saja yang saya rubah pada description di commit-an repo
