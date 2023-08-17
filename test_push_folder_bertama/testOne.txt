@@ -7,3 +7,5 @@ sekarang file .txt ini saya edit melalui command line, dari gitbash dengan nano
 mencoba commit dan push kedua dengan branch op0002
 
 saya melakukan perubahan ini lagi untuk mencoba membuat list apa saja yang saya rubah pada description di commit-an repo
+
+membuat perubahan baru di file txt, untuk belajar memberi description pada pesan commit dan push
