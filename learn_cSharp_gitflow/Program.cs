@@ -8,7 +8,7 @@ namespace learn_csharp_gitflow{
         public static void Main()
         {
             Console.WriteLine("Hello yhu ahahaha slebew! (from develop) ");
-            Console.WriteLine("Hello Gilang!");
+
             Console.WriteLine("Hello Agung!");
             Console.WriteLine("Hello Saputra!");
 
