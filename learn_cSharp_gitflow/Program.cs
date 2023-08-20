@@ -12,11 +12,11 @@ namespace learn_csharp_gitflow{
             Console.WriteLine("Hello Agung!");
             Console.WriteLine("Hello Saputra!");
 
-            int startNumber = 1;
+            int startNumber = 0;
 
             if(startNumber <= 0)
             {
-                Console.WriteLine("print hasil dari if startNumber = 0, ditambahi beberapa kata");
+                Console.WriteLine("print hasil dari if startNumber = 0");
             }
         }
     }
