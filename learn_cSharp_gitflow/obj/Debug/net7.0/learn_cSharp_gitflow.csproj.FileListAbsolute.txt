@@ -1,0 +1,15 @@
+E:\Employee_Gilang\Learn_GitFLow\learn_cSharp_gitflow\bin\Debug\net7.0\learn_cSharp_gitflow.exe
+e:\Employee_Gilang\Learn_GitFLow\learn_cSharp_gitflow\bin\Debug\net7.0\learn_cSharp_gitflow.deps.json
+e:\Employee_Gilang\Learn_GitFLow\learn_cSharp_gitflow\bin\Debug\net7.0\learn_cSharp_gitflow.runtimeconfig.json
+E:\Employee_Gilang\Learn_GitFLow\learn_cSharp_gitflow\bin\Debug\net7.0\learn_cSharp_gitflow.dll
+E:\Employee_Gilang\Learn_GitFLow\learn_cSharp_gitflow\bin\Debug\net7.0\learn_cSharp_gitflow.pdb
+E:\Employee_Gilang\Learn_GitFLow\learn_cSharp_gitflow\obj\Debug\net7.0\learn_cSharp_gitflow.csproj.AssemblyReference.cache
+E:\Employee_Gilang\Learn_GitFLow\learn_cSharp_gitflow\obj\Debug\net7.0\learn_cSharp_gitflow.GeneratedMSBuildEditorConfig.editorconfig
+E:\Employee_Gilang\Learn_GitFLow\learn_cSharp_gitflow\obj\Debug\net7.0\learn_cSharp_gitflow.AssemblyInfoInputs.cache
+E:\Employee_Gilang\Learn_GitFLow\learn_cSharp_gitflow\obj\Debug\net7.0\learn_cSharp_gitflow.AssemblyInfo.cs
+E:\Employee_Gilang\Learn_GitFLow\learn_cSharp_gitflow\obj\Debug\net7.0\learn_cSharp_gitflow.csproj.CoreCompileInputs.cache
+E:\Employee_Gilang\Learn_GitFLow\learn_cSharp_gitflow\obj\Debug\net7.0\learn_cSharp_gitflow.dll
+E:\Employee_Gilang\Learn_GitFLow\learn_cSharp_gitflow\obj\Debug\net7.0\refint\learn_cSharp_gitflow.dll
+E:\Employee_Gilang\Learn_GitFLow\learn_cSharp_gitflow\obj\Debug\net7.0\learn_cSharp_gitflow.pdb
+e:\Employee_Gilang\Learn_GitFLow\learn_cSharp_gitflow\obj\Debug\net7.0\learn_cSharp_gitflow.genruntimeconfig.cache
+e:\Employee_Gilang\Learn_GitFLow\learn_cSharp_gitflow\obj\Debug\net7.0\ref\learn_cSharp_gitflow.dll
