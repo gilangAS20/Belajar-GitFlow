@@ -8,7 +8,7 @@ namespace learn_csharp_gitflow{
         public static void Main()
         {
             Console.WriteLine("Hello Dunia Tipu-Tipu!");
-            Console.WriteLine("Hello Gilang!");
+            Console.WriteLine("Hello Gilang Agung Saputra hahahahha!");
             Console.WriteLine("Hello Agung!");
             Console.WriteLine("Hello Saputra!");
 
@@ -17,6 +17,7 @@ namespace learn_csharp_gitflow{
             if(startNumber <= 0)
             {
                 Console.WriteLine("print hasil dari if startNumber = 0");
+                Console.WriteLine("Bombastic side eye (from op0003)");
             }
         }
     }
