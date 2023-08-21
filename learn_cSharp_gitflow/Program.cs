@@ -26,6 +26,11 @@ namespace learn_csharp_gitflow
             calculatorOne.Substract(1, 2);
             calculatorOne.Multiply(1, 2);
             calculatorOne.Divide(1, 2);
+            
+            //=========================================================
+            Console.WriteLine("PRINT GREETINGS MY NAME");
+            PrintYourName nameOne = new PrintYourName();
+            Console.WriteLine(nameOne.Greetings("Gilang"));
         }
     }
 
