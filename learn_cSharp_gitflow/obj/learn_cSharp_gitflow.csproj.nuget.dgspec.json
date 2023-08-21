@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Employee_Gilang\\Learn_GitFLow\\learn_cSharp_gitflow\\learn_cSharp_gitflow.csproj": {}
+    "E:\\Employee_Gilang\\Learn_GitFLow\\learn_cSharp_gitflow\\learn_cSharp_gitflow.csproj": {}
   },
   "projects": {
-    "e:\\Employee_Gilang\\Learn_GitFLow\\learn_cSharp_gitflow\\learn_cSharp_gitflow.csproj": {
+    "E:\\Employee_Gilang\\Learn_GitFLow\\learn_cSharp_gitflow\\learn_cSharp_gitflow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Employee_Gilang\\Learn_GitFLow\\learn_cSharp_gitflow\\learn_cSharp_gitflow.csproj",
+        "projectUniqueName": "E:\\Employee_Gilang\\Learn_GitFLow\\learn_cSharp_gitflow\\learn_cSharp_gitflow.csproj",
         "projectName": "learn_cSharp_gitflow",
-        "projectPath": "e:\\Employee_Gilang\\Learn_GitFLow\\learn_cSharp_gitflow\\learn_cSharp_gitflow.csproj",
+        "projectPath": "E:\\Employee_Gilang\\Learn_GitFLow\\learn_cSharp_gitflow\\learn_cSharp_gitflow.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "e:\\Employee_Gilang\\Learn_GitFLow\\learn_cSharp_gitflow\\obj\\",
+        "outputPath": "E:\\Employee_Gilang\\Learn_GitFLow\\learn_cSharp_gitflow\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
