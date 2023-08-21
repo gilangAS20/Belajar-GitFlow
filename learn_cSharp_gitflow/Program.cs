@@ -8,7 +8,9 @@ namespace learn_csharp_gitflow
     {
         public static void Main()
         {
+            Console.WriteLine("WELCOME TO MY CODE");
             Console.WriteLine("Hello Dunia Tipu-Tipu! menambahkan beberapa kata dari branch op0003");
+            Console.WriteLine("Hello yhu ahahaha slebew! (from develop), add some text from branch develop");
             Console.WriteLine("Hello Gilang Agung Saputra hahahahha!");
             Console.WriteLine("Hello Agung!");
             Console.WriteLine("Hello Saputra!");
@@ -26,6 +28,11 @@ namespace learn_csharp_gitflow
             calculatorOne.Substract(1, 2);
             calculatorOne.Multiply(1, 2);
             calculatorOne.Divide(1, 2);
+            
+            //=========================================================
+            Console.WriteLine("PRINT GREETINGS MY NAME");
+            PrintYourName nameOne = new PrintYourName();
+            Console.WriteLine(nameOne.Greetings("Gilang"));
         }
     }
 
