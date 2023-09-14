@@ -1,0 +1,15 @@
+E:\Employee_Gilang\Learn_GitFLow\Serialize_Deserialize_XML\bin\Debug\net7.0\Serialize_Deserialize_XML.exe
+E:\Employee_Gilang\Learn_GitFLow\Serialize_Deserialize_XML\bin\Debug\net7.0\Serialize_Deserialize_XML.deps.json
+E:\Employee_Gilang\Learn_GitFLow\Serialize_Deserialize_XML\bin\Debug\net7.0\Serialize_Deserialize_XML.runtimeconfig.json
+E:\Employee_Gilang\Learn_GitFLow\Serialize_Deserialize_XML\bin\Debug\net7.0\Serialize_Deserialize_XML.dll
+E:\Employee_Gilang\Learn_GitFLow\Serialize_Deserialize_XML\bin\Debug\net7.0\Serialize_Deserialize_XML.pdb
+E:\Employee_Gilang\Learn_GitFLow\Serialize_Deserialize_XML\obj\Debug\net7.0\Serialize_Deserialize_XML.csproj.AssemblyReference.cache
+E:\Employee_Gilang\Learn_GitFLow\Serialize_Deserialize_XML\obj\Debug\net7.0\Serialize_Deserialize_XML.GeneratedMSBuildEditorConfig.editorconfig
+E:\Employee_Gilang\Learn_GitFLow\Serialize_Deserialize_XML\obj\Debug\net7.0\Serialize_Deserialize_XML.AssemblyInfoInputs.cache
+E:\Employee_Gilang\Learn_GitFLow\Serialize_Deserialize_XML\obj\Debug\net7.0\Serialize_Deserialize_XML.AssemblyInfo.cs
+E:\Employee_Gilang\Learn_GitFLow\Serialize_Deserialize_XML\obj\Debug\net7.0\Serialize_Deserialize_XML.csproj.CoreCompileInputs.cache
+E:\Employee_Gilang\Learn_GitFLow\Serialize_Deserialize_XML\obj\Debug\net7.0\Serialize_Deserialize_XML.dll
+E:\Employee_Gilang\Learn_GitFLow\Serialize_Deserialize_XML\obj\Debug\net7.0\refint\Serialize_Deserialize_XML.dll
+E:\Employee_Gilang\Learn_GitFLow\Serialize_Deserialize_XML\obj\Debug\net7.0\Serialize_Deserialize_XML.pdb
+E:\Employee_Gilang\Learn_GitFLow\Serialize_Deserialize_XML\obj\Debug\net7.0\Serialize_Deserialize_XML.genruntimeconfig.cache
+E:\Employee_Gilang\Learn_GitFLow\Serialize_Deserialize_XML\obj\Debug\net7.0\ref\Serialize_Deserialize_XML.dll

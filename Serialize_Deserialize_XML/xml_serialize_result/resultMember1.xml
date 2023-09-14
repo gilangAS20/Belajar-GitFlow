@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FT400InitialConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Gilang Peradilan Semu</Name>
+  <Email>jhon@gmail.com</Email>
+  <Age>22</Age>
+  <JoiningDate>2023-09-15T05:56:43.8682357+07:00</JoiningDate>
+  <IsAlive>true</IsAlive>
+</FT400InitialConfiguration>
